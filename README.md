@@ -1,7 +1,7 @@
 # stockmarket
-I stockmarket system that i made.
+A stockmarket system that i made.
 
 *Please dont remove this*
 Support is included,
 
-DISCORD FOR SUPPORT: https://discord.gg/MAfuSCd
+DISCORD FOR SUPPORT Or Bugg reports: https://discord.gg/MAfuSCd
